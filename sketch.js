@@ -1,13 +1,3 @@
-/*
------ Coding Tutorial by Patt Vira ----- 
-Name: Beautiful Trigonometry
-Video Tutorial: https://youtu.be/KUXShW3C9rs?si=F3ty1_Km4vfk9hvO
-
-Connect with Patt: @pattvira
-https://www.pattvira.com/
-----------------------------------------
-*/
-
 let x; let y; let angle = 0; 
 let r = 150;
 let shiftingAngle = [];
